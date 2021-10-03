@@ -1,15 +1,15 @@
 # Gerencia_Config_Projeto2
  Atividade 30/09
 
- Identificação<br>          
- Aluno: Adriano dos Santos Gomes<br>
- Matrícula: 21751229
+ Identificação          
+  - Aluno: Adriano dos Santos Gomes<br>
+  - Matrícula: 21751229
  
- Observações<br>
- Projeto desenvolvido na disciplina Arquitetura de Software com os alunos Taynara Costa e Rafael Guedes.
+ Observações
+ Projeto desenvolvido na disciplina Arquitetura de Software com os alunos Taynara Costa e Rafael Guedes.<br>
  Reutilizado para entrega na disciplina Gerência de Configuração com permissão dos alunos já citados.<br>
 
- Recursos:
+ Recursos
   - Site 
   - Banco de Dados
   - Documentação
