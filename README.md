@@ -1,5 +1,4 @@
-# Gerencia_Config_Projeto2
- Atividade 30/09
+# Gerência de Configuração - Atividade 30/09
 
  Identificação          
   - Aluno: Adriano dos Santos Gomes<br>
