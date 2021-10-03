@@ -6,7 +6,7 @@
   - Matrícula: 21751229
  
  Observações
- <p>Projeto desenvolvido na disciplina Arquitetura de Software com os alunos Taynara Costa e Rafael Guedes.
+ <p>Projeto desenvolvido na disciplina Arquitetura de Software com os alunos Taynara Costa e Rafael Guedes.<br>
  Reutilizado para entrega na disciplina Gerência de Configuração com permissão dos alunos já citados.</p>
 
  Recursos
