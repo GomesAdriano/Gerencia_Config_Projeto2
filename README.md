@@ -1,6 +1,6 @@
 # Gerência de Configuração - Atividade 30/09
 
- <h1>Identificação</h1>          
+ Identificação          
   - Aluno: Adriano dos Santos Gomes<br>
   - Matrícula: 21751229
  
