@@ -1,16 +1,18 @@
 # Gerencia_Config_Projeto2
  Atividade 30/09
 
- Identificação          
- Aluno: Adriano dos Santos Gomes
+ Identificação<br>          
+ Aluno: Adriano dos Santos Gomes<br>
  Matrícula: 21751229
  
- Observações
+ Observações<br>
  Projeto desenvolvido na disciplina Arquitetura de Software com os alunos Taynara Costa e Rafael Guedes.
- Reutilizado para entrega na disciplina Gerência de Configuração com permissão dos alunos já citados.
- Recursos: - Site
-           - Banco de Dados
-           - Documentação
+ Reutilizado para entrega na disciplina Gerência de Configuração com permissão dos alunos já citados.<br>
+
+ Recursos:
+  - Site 
+  - Banco de Dados
+  - Documentação
 
  Instruções
   - Necessário baixar e instalar o wamp64
